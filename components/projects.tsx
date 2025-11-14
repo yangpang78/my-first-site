@@ -18,7 +18,7 @@ export function Projects() {
     initialDisplay: 6,
     loadMoreCount: 3,
     background: {"image":"","video":"","color":"","opacity":0.1},
-    projects: [{"image":"/uploads/project-1763112441166-1763112441177.jpg","video":"","title":"단부건 산악회 해외 원정 등반  ","description":"일본 후지산(2025.07.26~07.29)"}] as Array<{ image: string; video?: string; title: string; description: string }>
+    projects: [{"image":"/uploads/project-1763112441166-1763112441177.jpg","video":"","title":"단부건 산악회 해외 원정 등반  ","description":"일본 후지산(2025.07.26~07.29)"},{"image":"/uploads/project-1763113976004-1763113976344.png","video":"","title":"2025학년도 2학기 원우의날 송년의 밤","description":"35대,36대 원우회장 이취임식"}] as Array<{ image: string; video?: string; title: string; description: string }>
   }
 
   const [projectsInfo, setProjectsInfo] = useState(defaultInfo)
