@@ -34,7 +34,7 @@ export function Footer() {
     location: "경기도 안양시 만안구",
     copyright: "",
     showMadeWith: true,
-    madeWithLocation: "건축의 새로운 패러다임 유쭈보다 귀여운 후지산 정복자 양 상 화",
+    madeWithLocation: "건축의 새로운 패러다임 유쭈 언니이자 후지산 정복자 양 상 화",
     showTemplateCredit: true,
    
     showScrollTop: true
