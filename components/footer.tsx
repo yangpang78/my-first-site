@@ -34,9 +34,9 @@ export function Footer() {
     location: "경기도 안양시 만안구",
     copyright: "",
     showMadeWith: true,
-    madeWithLocation: "Mrbaeksang",
+    madeWithLocation: "건축의 새로운 패러다임 깜찍한 유쭈 언니이자 후지산 정복자 양 상 화",
     showTemplateCredit: true,
-    templateCreator: {"name":"백상","youtube":"https://www.youtube.com/@Mrbaeksang95/videos","website":"https://devcom.kr/","email":"qortkdgus95@gmail.com"},
+    
     showScrollTop: true
   }
 
