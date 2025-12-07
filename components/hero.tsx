@@ -36,7 +36,7 @@ export function Hero() {
   const defaultSocialLinks = [{"name":"Instagram","icon":"instagram","url":"https://instagram.com/username"},{"name":"YouTube","icon":"youtube","url":"https://youtube.com/@username"}]
   
   const defaultInfo = {
-    greeting: "까꿍! 안녕하세요~~~~",
+    greeting: "까꿍! 안녕하세요~~~~~~",
     name: "양상화",
     title: "개성건설 전략기획실",
     description: "기획팀 상무이사",
